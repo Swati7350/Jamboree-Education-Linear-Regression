@@ -1,15 +1,4 @@
-# Machine-Learning-Case-Studies
-
- Jamboree Education
-Business Case Scaler
-Topic: Linear Regression Duration: 1 week
-Mindset
-1. Evaluation will be kept lenient, so make sure you attempt this case study.
-2. It is understandable that you might struggle with getting started on this. Just
-brainstorm, discuss with peers, or get help from TAs.
-3. There is no right or wrong answer. We have to become comfortable with dealing with
-uncertainty in business. This is exactly the skill we want to develop.
-Context
+# Jamboree Education
 Jamboree has helped thousands of students like you make it to top colleges abroad. Be it GMAT, GRE or SAT, their unique problem-solving methods ensure maximum scores with minimum effort.
 They recently launched a feature where students/ learners can come to their website and check their probability of getting into the IVY league college. This feature estimates the chances of graduate admission from an Indian perspective.
 How can you help here?
